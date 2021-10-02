@@ -1,6 +1,7 @@
 <h1>Pomodoro Timer</h1>
 
 An application based on the Pomodoro Timer for time management that defaults to focus intervals of 25 minutes and break intervals of 5 minutes.</br>
+
 <a href="https://pomodoro-timer-ruby.vercel.app/">Live Demo </a>
 
 <h2>Screenshots</h2>
