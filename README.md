@@ -7,13 +7,13 @@ An application based on the Pomodoro Timer for time management that defaults to 
 <h2>Screenshots</h2>
 <strong>Initial Screen</strong><br />
 The initial screen lets the user set the length of the focus and break and break sessions.
-<img src="https://github.com/AudreyMargolis/PomodoroTimer/blob/master/06ddc6bb0f6b5add9db441447000e59c-o-initial-screen.png" />
+<img src="https://user-images.githubusercontent.com/87205105/144726269-baf0655e-83ca-4741-92af-8db55945dd3d.png" />
 <strong>Active Session Screen</strong><br />
 After the user clicks the "play" button, the buttons to change the focus and break duration are disabled, and the session timer appears.
-<img src="https://github.com/AudreyMargolis/PomodoroTimer/blob/master/517bceae35a5acf63fb3d20cb04733cf-ro-active-sesson.png" />
+<img src="https://user-images.githubusercontent.com/87205105/144726275-95dd78e5-39f7-453d-b6c1-457b3ceb00a6.png" />
 <strong> Paused Session Screen </strong><br />
 If the user clicks the "pause" button, "paused" appears below the time remaining.
-<img src="https://github.com/AudreyMargolis/PomodoroTimer/blob/master/e179e707512486a110fbdb155a7897b4-o-paused-session.png" />
+<img src="https://user-images.githubusercontent.com/87205105/144726280-b6752095-bcd1-408f-a475-d6ca13b30994.png" />
 <h2>Technology</h2>
 Built with:<br />
 <a href="https://facebook.github.io/react/">React</a> - View Library<br />
